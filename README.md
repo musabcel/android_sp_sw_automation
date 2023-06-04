@@ -59,3 +59,28 @@ Add Actions → Application → Launch Shortcut → Flow Shortcut (Automate) →
   <img src="https://github.com/musabcel/android_sp_sw_automation/blob/main/doc/5.gif?raw=true" alt="stacks"/>
 </details>
 
+# Flows
+<details>
+  <summary>Battery Statistics</summary>
+  This flow will send your phone's battery information as a message dialog to your smart watch.
+  <img src="https://github.com/musabcel/android_sp_sw_automation/blob/main/flows/Battery_Stats.flo.jpg?raw=true" alt="stacks"/>
+</details>
+
+<details>
+  <summary>DND On/Off</summary>
+  This flow is used to turn the do not disturb mode on or off on your phone.
+  <img src="https://github.com/musabcel/android_sp_sw_automation/blob/main/flows/DND.flo.jpg?raw=true" alt="stacks"/>
+</details>
+
+<details>
+  <summary>Ring Mode Change</summary>
+  This flow is used to change the ring mode on your phone. It has sound on and vibrate mode.
+  <img src="https://github.com/musabcel/android_sp_sw_automation/blob/main/flows/Ring_Mode.flo.jpg?raw=true"/>
+</details>
+
+<details>
+  <summary>Watch_GPS</summary>
+  This flow finds your phone's location and sends it as a notification to your smart watch.
+  <img src="https://github.com/musabcel/android_sp_sw_automation/blob/main/flows/Watch_GPS.flo.jpg?raw=true"/>
+</details>
+
